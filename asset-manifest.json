@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KhatriDisha/context-app/static/css/main.e6c13ad2.css",
+    "main.js": "/KhatriDisha/context-app/static/js/main.c2983067.js",
+    "index.html": "/KhatriDisha/context-app/index.html",
+    "main.e6c13ad2.css.map": "/KhatriDisha/context-app/static/css/main.e6c13ad2.css.map",
+    "main.c2983067.js.map": "/KhatriDisha/context-app/static/js/main.c2983067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c2983067.js"
+  ]
+}
